@@ -79,4 +79,7 @@ public class UserController {
     public void fenzhi(){
         System.out.println("fenzhi");
     }
+    public void fenzhit(int i){
+        System.out.println(i);
+    }
 }
