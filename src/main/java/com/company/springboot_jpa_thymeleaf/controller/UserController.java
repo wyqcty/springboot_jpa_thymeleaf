@@ -77,6 +77,6 @@ public class UserController {
     }
 
     public void fenzhi(){
-        System.out.println("fenzhi1");
+        System.out.println("fenzhi");
     }
 }
