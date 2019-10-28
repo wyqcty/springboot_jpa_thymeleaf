@@ -76,14 +76,4 @@ public class UserController {
         return "redirect:/manageruser/";
     }
 
-    public void fenzhi(){
-        System.out.println("fenzhi");
-    }
-
-    public void fenzhit(String j){
-        System.out.println(j);
-    }
-    public void fenzhit2(int i){
-        System.out.println(i);
-    }
 }
