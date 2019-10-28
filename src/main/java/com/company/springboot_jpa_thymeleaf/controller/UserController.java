@@ -76,5 +76,7 @@ public class UserController {
         return "redirect:/manageruser/";
     }
 
-
+    public void fenzhi(){
+        System.out.println("fenzhi1");
+    }
 }
