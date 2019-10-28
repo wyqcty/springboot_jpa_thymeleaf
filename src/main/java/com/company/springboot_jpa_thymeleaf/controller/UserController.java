@@ -83,4 +83,7 @@ public class UserController {
     public void fenzhit(String j){
         System.out.println(j);
     }
+    public void fenzhit2(int i){
+        System.out.println(i);
+    }
 }
